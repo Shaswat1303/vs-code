@@ -70,5 +70,7 @@ int main(){
     int s=countleaf(root);
     printf("\n%d",s);
 
+    printf("i am goat");
+
     return 0;
 }
